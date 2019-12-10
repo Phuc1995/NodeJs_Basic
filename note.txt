@@ -1,0 +1,11 @@
+Node Package Manager	
+	- npm install express (--save, --g)
+	- npm webpack --save-dev(set package into devDependencies only use to for Dev evironment)
+	- npm ls
+	
+Modules:
+	- Core Modules(http, url, querystring, path, fs, util)
+	- Local Modules(custom)
+	- Third Party Modules(download as express)
+	- var module = require('module_name');
+	- module.exports = variable;(modules for local)
